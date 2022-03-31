@@ -1,5 +1,5 @@
  # Adventurer Simulator
-
+This is a copy of the original Adventure Simulator, as the original game is privated
 Authors: **Marshall Jones** : https://github.com/Sockzzz, **Nicole Boie** : https://github.com/nicboi1, **Dakota Heredia** : https://github.com/dako06  
 
 ## 7/1/21
